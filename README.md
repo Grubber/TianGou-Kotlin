@@ -1,6 +1,8 @@
 TianGou-Kotlin
 =======
 
+[![Build Status](https://travis-ci.org/Grubber/TianGou-Kotlin.svg?branch=master)](https://travis-ci.org/Grubber/TianGou-Kotlin)
+
 演示 RxJava + Retrofit + OkHttp + Dagger 2 基本用法，使用 Kotlin 语言编写。
 
 其中演示数据由 天狗云平台(http://www.tngou.net/doc) 提供。
